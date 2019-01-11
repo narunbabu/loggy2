@@ -1,0 +1,14 @@
+    0
+      Dibrugarh1_DLL_150-1852.las : (150.1-1852.2) - CAL, GR, LLD, LLS, MSFL, SP
+      Dibrugarh1_SDL_150-1853.las : (150.3-1853.0) - CAL, GR, RHOB, NPHI, PE
+    1
+      Dibrugarh1_DLL_1772-3310.las : (1772.5-3310.5) - CAL, GR, LLD, LLS, MSFL, SP
+      Dibrugarh1_SDL_1832-3308.las : (1832.9-3308.9) - CAL, GR, RHOB, NPHI, PE
+    2
+      Dibrugarh1_DLL_3293-4300.las : (3293.1-4300.9) - CAL, GR, LLD, LLS, MSFL, SP
+      Dibrugarh1_SDL_3254-4358.las : (3254.5-4358.8) - CAL, GR, RHOB, NPHI, PE
+    3
+      Dibrugarh1_DLL_3961-4367.las : (3961.6-4367.0) - CAL, GR, LLD, LLS, MSFL, SP
+    4
+      Dibrugarh1_DLL_4267-4428.las : (4267.8-4428.9) - CAL, GR, LLD, LLS, MSFL, SP
+      Dibrugarh1_SDL_4285-4428.las : (4285.8-4428.3) - CAL, GR, RHOB, NPHI, PE

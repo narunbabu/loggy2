@@ -1,0 +1,8 @@
+cd ..
+cd ..
+rm build9
+mv build build9
+python .\setup_autosplice.py build
+cd .\build\exe.win-amd64-3.6\
+.\AutoWellSplicing.exe
+
